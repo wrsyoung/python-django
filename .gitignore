@@ -2,3 +2,5 @@
 wrsdjango/\.idea/
 
 *.pyc
+
+\.idea/
